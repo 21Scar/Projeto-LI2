@@ -34,3 +34,9 @@ Tutorial do ncurses:
 https://tldp.org/HOWTO/NCURSES-Programming-HOWTO/
 Exemplo de um jogo muito complicado:
 http://brogue.roguelikelike.com/
+
+
+Grupo 2:
+Leonor Cunha
+João Ferreira
+Vasco Gonçalves
