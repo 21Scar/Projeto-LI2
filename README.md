@@ -37,6 +37,6 @@ http://brogue.roguelikelike.com/
 
 
 Grupo 2:
-Leonor Cunha
-João Ferreira
-Vasco Gonçalves
+Leonor Cunha;
+João Ferreira;
+Vasco Gonçalves.
