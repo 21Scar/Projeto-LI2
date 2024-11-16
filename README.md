@@ -40,3 +40,5 @@ Grupo 2:
 Leonor Cunha;
 João Ferreira;
 Vasco Gonçalves.
+
+Nota final 14 valores
